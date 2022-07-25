@@ -1,3 +1,8 @@
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+[![Licence](https://img.shields.io/github/license/quentinhaenn/projet-co2)](licence.md)
+![Commit activity](https://img.shields.io/github/commit-activity/m/quentinhaenn/projet-co2)
+
+
 # Projet d'étude sur les différents impacts des sources d'énergie électrique en France 
 
 Ce petit projet d'étude s'inscrit dans une démarche de recherche et de compilation de données concernant les différents impacts des sources d'énergie électrique en France. Notez qu'il ne s'agit en aucun cas d'une tentative de remplacer certaines études menées par des dizaines de scientifiques de haute volée tels que les rapports du GIEC ou autre. 
